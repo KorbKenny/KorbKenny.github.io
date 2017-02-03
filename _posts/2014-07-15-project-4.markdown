@@ -1,13 +1,12 @@
 ---
-title: REALLY GREAT APP
+title: Vooz
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
-alt: hoverstuff
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+date: 2016-11-15
+img: voozportfolio.png
+alt: Vooz
+project-date: November 2016
+category: Android Development
+description: This is a news app using Vice's (now deprecated) API. It was a group project, working with Git and Github to merge our branches together. I used the Job Scheduler, Broadcast Receiver, and Alarm Manager to create custom notifications to appear at the user's choice. I also worked on facebook sharing and did all the graphic design for this app. Check it out on github: https://github.com/joelimyx/project-3
 
 ---
