@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: Practice Room Records
+modal-id: 1
 date: 2009-08-18
 img: prrportfolio.png
 alt: Practice Room Records
