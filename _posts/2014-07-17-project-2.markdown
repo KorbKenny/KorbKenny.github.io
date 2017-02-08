@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2017-02-01
 img: peacockportfolio.png
 alt: Peacock Interview
-project-date: April 2014
+project-date: February 2017
 client: Kindle Consulting Corp
 category: Android Development
 description: This was for this dude.
