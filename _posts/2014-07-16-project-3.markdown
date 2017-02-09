@@ -7,6 +7,6 @@ alt: Co-op Comics
 project-date: April 2014
 client: Myself
 category: Android Development
-description: For my friends
+description: An app for me and my friends to draw each other pages of a comic book that branches in random directions. Built drawing views on a canvas and can live sync these pages onto an online database. Currently working on building it into a production model.
 
 ---
