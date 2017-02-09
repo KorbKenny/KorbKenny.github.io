@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 4
+date: 2016-11-08
+img: voozportfolio.png
+alt: Vooz
+project-date: November 2016
+client: f
+category: Android Development/Graphic Design
+description: VooZ is a simple to use news app that utilizes Vice API to create a visually appealing app. Users can select their topic of interest and VooZ will create a customize the feed to best suit them. VooZ also parses thru the body of the articles, which was represented in html, and extract important informations to be presented in a cleanly formatted article.
+
+---
+
